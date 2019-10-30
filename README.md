@@ -5,7 +5,7 @@
 * Лекция 1. Вводная лекция
 * Лекция 2. [Промышленное приложение](https://naumen-student.github.io/EnterpriseJavaCourse-a2019/lecture/lecture02.html)
 * Практика 1. 
-* Лекция 3. Инверсия управления
+* Лекция 3. [Инверсия управления](https://naumen-student.github.io/EnterpriseJavaCourse-a2019/lecture/lecture03.pdf)
 * Практика 2.
 * Лекция 4. Многопоточность и JAVA
 * Лекция 5. RPC или социализация приложений
