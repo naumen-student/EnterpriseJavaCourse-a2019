@@ -8,7 +8,7 @@ layout: default
 * Практика 1. 
 * Лекция 3. [Инверсия управления](lecture/lecture03.pdf)
 * Практика 2.
-* Лекция 4. Многопоточность и JAVA
+* Лекция 4. [Многопоточность и JAVA](lecture/lecture04.html)
 * Лекция 5. RPC или социализация приложений
 * Практика 3.
 * Лекция 6. Работа с базами данных
@@ -19,3 +19,7 @@ layout: default
 
 ## Практика
 [описание практики](doc/practice.md)
+
+
+## Дополнительные материалы
+[Многопоточность и JAVA](https://github.com/naumen-student/EnterpriseJavaCourse-a2019/tree/master/doc/JavaConcurrent/)
